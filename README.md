@@ -13,3 +13,12 @@ Module 7 Project 7: Machine Learning
 
 ## Datasets Used in this Project
 
+Average High Temperatures in NYC from 1895-2018. No link provided.
+Other Projects
+Index:	   Class:	                      Project Link:
+1	44-608 Data Analytics Fundamentals	Project 1 - https://github.com/anythonyschomer/datafun-01-getting-started
+2	44-608 Data Analytics Fundamentals	Project 2 - https://github.com/anythonyschomer/datafun-02-functions
+3	44-608 Data Analytics Fundamentals	Project 3 - https://github.com/anythonyschomer/datafun-03-datatypes
+4	44-608 Data Analytics Fundamentals	Project 4 - https://github.com/anythonyschomer/datafun-04-notebooks
+5	44-608 Data Analytics Fundamentals	Project 5 - https://github.com/anythonyschomer/datafun-05-data-at-rest
+6	44-608 Data Analytics Fundamentals	Project 6 - https://github.com/anythonyschomer/datafun-06-projects
